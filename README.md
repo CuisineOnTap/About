@@ -14,3 +14,4 @@ Launched: 12/16/2022
 - Users can edit anything as necessary, including deleting photos and re-running the ingredient analysis.
 - Users can use their entire ingredient inventory to find recipes.
 - Users have acces to FAQ for tips on using the app.
+- Users are warned appropriately anytime there is an error!
